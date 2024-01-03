@@ -1,0 +1,225 @@
+@import url('https://www.fontsquirrel.com/fonts/barlow');
+.body{
+    background-color: #EEEEEE;
+}
+.picture {
+    width: 50%;
+    height: 80vh;
+  }
+.sqare{
+    position: relative;
+    margin-top: 10vh;
+    margin-left: 7vh;
+    width: 86%;
+    height: 80vh;
+    background-color: #FFFFFF;
+}
+.logo{
+    position: absolute;
+    margin-left: -47%;
+    margin-top: 2%;
+    width: 8%;
+    height: 5%;
+    
+}
+.txt{
+    position: absolute;
+    margin-left: 53%;
+    margin-top: -70vh;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #2A4A5C;
+    font-size: 3vh;
+}
+.txt2{
+    position: absolute;
+    margin-left: 53%;
+    margin-top: -65vh;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 515;
+    font-style: normal;
+    color: #7B8A92;
+    font-size: 1.6vh;
+}
+.FaceBookButton{
+    position: absolute;
+    margin-top: 23vh;
+    margin-left: 3%;
+    background-color: #255A9B;
+    width: 20%;
+    height: 4vh;
+    color: #FFFFFF;
+    border: none;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 515;
+    font-style: normal;
+    font-size: 12px;
+}
+.fb{
+    position: relative;
+    margin-left: -30%;
+    height: 50%;
+}
+.linkeIdButton{
+    position: absolute;
+    margin-top: 23vh;
+    margin-left: 27%;
+    background-color: #0076B6;
+    width: 20%;
+    height: 4vh;
+    color: #FFFFFF;
+    border: none;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 515;
+    font-style: normal;
+    font-size: 12px;
+}
+.linkeId{
+    position: relative;
+    margin-left: -30%;
+    height: 50%;
+}
+.hr1{
+    position: absolute;
+    margin-left: 65%;
+    margin-top: -50vh;
+    width: 8%;
+}
+.hr2{
+    position: absolute;
+    margin-left: 77%;
+    margin-top: -50vh;
+    width: 8%;
+}
+.or{
+    position: absolute;
+    margin-top: -50.8vh;
+    margin-left: 74%;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #7B8A92;
+    font-size: 1.5vh;
+}
+.Email{
+    position: absolute;
+    margin-top: -45vh;
+    margin-left: 53%;
+    width: 20%;
+    border-width: 1px;
+    border-color: #96A5B1;
+    border-left-color: #0076B6;
+    border-left-width: 3px;
+    border-radius: 2px;
+    border-style: solid;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #96A5B1;
+    font-size: 2vh;
+}
+.EmailIn{
+    position: relative;
+    margin-left: 1%;
+    width: 90%;
+    height: 10;
+    border: none;
+    outline: none;
+}
+.Phone{
+    position: absolute;
+    margin-top: -45vh;
+    margin-left: 77%;
+    width: 20%;
+    border-width: 1px;
+    border-color: #96A5B1;
+    border-left-color: #0076B6;
+    border-left-width: 3px;
+    border-radius: 2px;
+    border-style: solid;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #96A5B1;
+    font-size: 2vh;
+}
+.PhoneIn{
+    position: relative;
+    margin-left: 1%;
+    width: 90%;
+    height: 10;
+    border: none;
+    outline: none;
+}
+.txt3{
+    position: absolute;
+    margin-left: 53%;
+    margin-top: -34vh;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    color: #2A4A5C;
+    font-size: 2.5vh;
+}
+.txt4{
+    position: absolute;
+    margin-left: 53%;
+    margin-top: -31vh;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 515;
+    font-style: normal;
+    color: #7B8A92;
+    font-size: 1.6vh;
+}
+.individual{
+    position: absolute;
+    margin-left: 53%;
+    margin-top: -27vh;
+}
+.busines{
+    position: absolute;
+    margin-left: 61%;
+    margin-top: -27vh;
+}
+.ira{
+    position: absolute;
+    margin-left: 68%;
+    margin-top: -27vh;
+}
+.Trust{
+    position: absolute;
+    margin-left: 73%;
+    margin-top: -27vh;
+}
+label{
+    font-family: 'Barlow', sans-serif;
+    font-weight: 515;
+    font-style: normal;
+    color: black;
+    font-size: 1.6vh;
+}
+.check{
+    position: absolute;
+    margin-left: 53%;
+    margin-top: -17vh;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 515;
+    font-style: normal;
+    color: black;
+    font-size: 1.6vh;
+}
+.create{
+    position: absolute;
+    margin-top: 73vh;
+    margin-left: 3%;
+    background-color: #3698FB;
+    width: 20%;
+    height: 4vh;
+    color: #FFFFFF;
+    border: none;
+    font-family: 'Barlow', sans-serif;
+    font-weight: 515;
+    font-style: normal;
+    font-size: 12px;
+}
